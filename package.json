@@ -1,0 +1,23 @@
+{
+  "name": "chatterscape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebansep1/ChatterScape.git"
+  },
+  "author": "Esteban Sepulveda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estebansep1/ChatterScape/issues"
+  },
+  "homepage": "https://github.com/estebansep1/ChatterScape#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3"
+  }
+}
